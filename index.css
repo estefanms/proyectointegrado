@@ -1,0 +1,19 @@
+h3,h4 {
+    color: blueviolet;
+}
+
+H1 {color: navy}
+
+body { background-color: pink;
+}
+
+.texto {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para el texto */
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
